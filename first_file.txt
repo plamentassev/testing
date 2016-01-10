@@ -1,3 +1,6 @@
+Here we begin a new subversion and have to be in verstion v 2.0
+
+
 this is the initial change to the first file
 
 making a change here , want to commit it
